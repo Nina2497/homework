@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+    /* font-weight: ; */
+}
+
+.le { font-weight: 600;
+    
+}
+
+
+.demo {
+    display: inline;
+    /* min-width: 20px; */
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+}
+
+.checkbox {
+    display: inline;
+    cursor: pointer;
+}
+
+.textarea {
+    display: block;
+}
+
+
+
+
+textarea {
+    resize: vertical;
+    max-height: 200px;
+
+}
+
+.fieldset {
+    nav-down: auto;
+}
+button {
+    cursor: pointer;
+}
